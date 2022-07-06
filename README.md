@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá, seja muito bem vindo(a)! Eu sou o Matheus
 
-<!--
-**Matheus0902/matheus0902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Atualmente estou trabalhando como aux. de produção ..
+- 🌱 No momento estou estudando e aperfeiçoando meus conhecimentos em Fron-end ..
+- 👯 Estou a procura da minha primeira oportunidade como dev ..
+- 📫 Como me contatar: matheus090298@hotmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+###
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus0902&show_icons=true&theme=merko)
+
+
+
